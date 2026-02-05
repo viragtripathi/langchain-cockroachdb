@@ -1,3 +1,27 @@
+# ⚠️ REPOSITORY MOVED
+
+This repository has been migrated to the official CockroachDB organization:
+
+## **👉 [cockroachdb/langchain-cockroachdb](https://github.com/cockroachdb/langchain-cockroachdb)**
+
+Please use the official repository for:
+- 📦 Latest releases and updates
+- 🐛 Issues and bug reports
+- 🔧 Pull requests and contributions
+- 📚 Documentation
+
+---
+
+### Quick Links
+
+- **Official Repository:** https://github.com/cockroachdb/langchain-cockroachdb
+- **PyPI Package:** https://pypi.org/project/langchain-cockroachdb/
+- **Documentation:** Available in the repository
+
+---
+
+**Note:** This repository is archived for historical reference only. All development happens in the official CockroachDB organization repository.
+     
 # <img src="https://raw.githubusercontent.com/viragtripathi/langchain-cockroachdb/main/assets/cockroachdb_logo.svg" alt="🪳" width="25" height="25" style="vertical-align: middle;"/> langchain-cockroachdb
 
 [![Tests](https://github.com/viragtripathi/langchain-cockroachdb/actions/workflows/test.yml/badge.svg)](https://github.com/viragtripathi/langchain-cockroachdb/actions/workflows/test.yml)
